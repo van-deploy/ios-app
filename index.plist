@@ -11,7 +11,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://A6073997523482.qiniucdn.apicloud-system.com/f1fdfc7036976ecb18a420f82de2fe77.ipa</string>
+            <string>https://raw.githubusercontent.com/van-deploy/ios-app/master/app-online.ipa</string>
           </dict>
           <dict>
             <key>kind</key>
