@@ -33,9 +33,9 @@
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.nihaochinese.CH</string>
+          <string>com.hichinese.app</string>
           <key>bundle-version</key>
-          <string>0.0.3</string>
+          <string>0.0.4</string>
           <key>kind</key>
           <string>software</string>
           <key>subtitle</key>
