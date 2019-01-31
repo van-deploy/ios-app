@@ -11,7 +11,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://hello-chinese.oss-cn-hangzhou.aliyuncs.com/20181022/app-online.ipa</string>
+            <string>https://hello-chinese.oss-cn-hangzhou.aliyuncs.com/common/HiChinese.ipa</string>
           </dict>
           <dict>
             <key>kind</key>
